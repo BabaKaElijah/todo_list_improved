@@ -46,6 +46,14 @@ project-folder/
 
 6. Click the × to delete it
 
-📸 Demo
-You can upload a screenshot or link to a live demo here:
+## 📸 Demo
 ![App Screenshot](screenshot.PNG)
+
+## 💡 Ideas for Improvement
+- Add a due date for each task
+
+- Enable task editing
+
+- Add filters: All / Active / Completed
+
+- Sync with a backend or Firebase
