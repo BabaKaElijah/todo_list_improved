@@ -15,10 +15,33 @@ A simple and stylish To-Do List web application that lets you add, complete, and
 🎨 Clean user interface with a purple gradient background
 
 ## 🔧 Technologies Used
-HTML
+- HTML
 
-CSS (with gradients and custom icons)
+- CSS (with gradients and custom icons)
 
-JavaScript (DOM manipulation + localStorage)
+- JavaScript (DOM manipulation + localStorage)
 
 ## 📁 Folder Structure
+```
+project-folder/
+│
+├── index.html             # Main HTML file
+├── style.css              # CSS styling
+├── script.js              # JavaScript logic
+├── images/
+│   ├── unchecked.png      # Icon for incomplete task
+│   ├── checked.png        # Icon for completed task
+│   └── todo_screenshot.png # Optional screenshot for README
+```
+✅ How to Use
+1. Clone the repo or download the ZIP
+
+2. Open index.html in your browser
+
+3. Start typing a task in the input box
+
+4. Hit Enter or click Add
+
+5. Click a task to mark it as done
+
+6. Click the × to delete it
