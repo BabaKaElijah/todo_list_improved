@@ -2,6 +2,9 @@
 A simple and stylish To-Do List web application that lets you add, complete, and delete tasks — with your progress saved automatically using localStorage.
 
 <!-- Replace with your actual screenshot path or GitHub image URL -->
+## 📸 Demo
+![App Screenshot](screenshot.PNG)
+
 
 ## 🚀 Features
 ✅ Add new tasks by clicking Add or pressing Enter
@@ -45,9 +48,6 @@ project-folder/
 5. Click a task to mark it as done
 
 6. Click the × to delete it
-
-## 📸 Demo
-![App Screenshot](screenshot.PNG)
 
 ## 💡 Ideas for Improvement
 - Add a due date for each task
