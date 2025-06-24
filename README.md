@@ -45,3 +45,7 @@ project-folder/
 5. Click a task to mark it as done
 
 6. Click the × to delete it
+
+📸 Demo
+You can upload a screenshot or link to a live demo here:
+![App Screenshot](screenshot.PNG)
