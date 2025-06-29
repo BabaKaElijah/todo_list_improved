@@ -57,5 +57,5 @@ project-folder/
 - Add filters: All / Active / Completed
 
 - Sync with a backend or Firebase
- ## Author
+ ## 👤 Author
  Ellias Sithole
