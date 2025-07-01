@@ -23,6 +23,53 @@ A simple and stylish To-Do List web application that lets you add, complete, and
 - CSS (with gradients and custom icons)
 
 - JavaScript (DOM manipulation + localStorage)
+
+## 📝 To-Do List HTML Structure
+
+Basic HTML layout for a simple to-do list app with an input box, add button, and task list container.
+
+```html
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>To-Do List</title>
+  <link rel="stylesheet" href="style.css"> <!-- Link to your CSS -->
+</head>
+
+<body>
+  <div class="container">
+    <div class="todo-app">
+      <h2>
+        To Do List
+        <img src="/images/icon.png" alt="Icon">
+      </h2>
+
+      <!-- Input and Add button -->
+      <div class="row">
+        <input type="text" id="input-box" placeholder="Add your text">
+        <button onclick="addTask()">Add</button>
+      </div>
+
+      <!-- List container where tasks will appear -->
+      <ul id="list-container">
+        <!-- Sample tasks commented out -->
+        <!--
+        <li class="checked">Task 1</li>
+        <li>Task 2</li>
+        <li>Task 3</li>
+        -->
+      </ul>
+    </div>
+  </div>
+
+  <!-- Link to your JS file -->
+  <script src="script.js"></script>
+</body>
+
+</html>
+```
   
 ## ✅ To-Do List App Logic (JavaScript)
 
